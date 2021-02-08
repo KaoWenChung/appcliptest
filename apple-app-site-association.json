@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "7QN4P34VRJ.com.wyn.GitHub-UsersList",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  },
+    "appclips": {
+        "apps": ["7QN4P34VRJ.com.wyn.GitHub-UsersList.Clip"]
+    }
+}
